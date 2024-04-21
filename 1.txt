@@ -1,2 +1,4 @@
 1 git init
-2
+2 git status 
+3 git add 1.txt
+4 git 
